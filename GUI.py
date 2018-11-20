@@ -7,7 +7,11 @@ from tkinter import messagebox
 import tkinter.filedialog as filedialog
 import os
 
+<<<<<<< HEAD
 #functions for drop-down menu lalala 123 234
+=======
+#functions for drop-down menu lalala
+>>>>>>> parent of 16b06e9... Update GUI.py
 def select_door():
     door_path.set('')
     path = filedialog.askopenfilename()
