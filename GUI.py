@@ -7,7 +7,7 @@ from tkinter import messagebox
 import tkinter.filedialog as filedialog
 import os
 
-#functions for drop-down menu 
+#functions for drop-down menu
 
 def select_door():
     door_path.set('')
